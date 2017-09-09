@@ -1,0 +1,2 @@
+def __firstcall():
+	pass
